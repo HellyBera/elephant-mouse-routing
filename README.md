@@ -213,7 +213,7 @@ using the scripts above.
 
 ## Contributors
 
-- Het Bera
+- Helly Bera
 - Divisht
 - Anshul
 
